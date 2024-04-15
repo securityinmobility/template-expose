@@ -10,9 +10,10 @@ benötigt:
 - biber
 - latexmk
 - Liberation Fonts
+
 Unter Ubuntu:
 ```bash
-apt install texlive-latex-recommended texlive-lang-german texlive-xetex latemxk biber fonts-liberation2
+apt install texlive-latex-recommended texlive-lang-german texlive-xetex latexmk biber fonts-liberation2
 ```
 
 Anschließend kann das Projekt mittels `latexmk` kompiliert werden:
